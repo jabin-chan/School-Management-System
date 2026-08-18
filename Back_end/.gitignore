@@ -1,0 +1,11 @@
+node_modules/
+.env
+npm-debug.log*
+.DS_Store
+
+uploads/photos/*
+uploads/tc/*
+uploads/notices/*
+!uploads/photos/.gitkeep
+!uploads/tc/.gitkeep
+!uploads/notices/.gitkeep
